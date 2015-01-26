@@ -1,0 +1,7 @@
+git diff - Compare two commits.
+
+git clone - Make a copy of an entire Git repository.
+
+git checkout - Temporarily reset all files in a directory to their state at the time of a specific commit.
+
+git log - Show the commits made in this repository.
