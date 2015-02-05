@@ -5,3 +5,20 @@ git clone - Make a copy of an entire Git repository.
 git checkout - Temporarily reset all files in a directory to their state at the time of a specific commit.
 
 git log - Show the commits made in this repository.
+
+git init - Initialize a repository.
+
+git status - Show repository current status.
+
+git add - Add a file to staging area.
+
+git commit - Make a commit from staging area.
+
+git branch - List branchs.
+
+git branch <name> - Create a branch.
+
+
+
+
+
